@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Minggu 3 Layouting</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="oleh">Disusun Oleh:</string>
+    <string name="nama">Defi Tamara - E41190942</string>
+    <string name="prodi">TIF A Bondowoso</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="tombol">Tombol</string>
+
+    <!--    String untuk Spinner-->
+    <string-array name="dates_array">
+        <item>Wed, March 24. 2021</item>
+        <item>Thu, March 25. 2021</item>
+        <item>Fri, March 26. 2021</item>
+        <item>Sat, March 27. 2021</item>
+        <item>Sun, March 28. 2021</item>
+        <item>Mon, March 29. 2021</item>
+        <item>Tue, March 30. 2021</item>
+        <item>Wed, March 31. 2021</item>
+    </string-array>
+    <string-array name="times_array">
+        <item>8:00am</item>
+        <item>9:00am</item>
+        <item>10:00am</item>
+        <item>11:00am</item>
+        <item>12:00am</item>
+        <item>13:00am</item>
+        <item>14:00am</item>
+        <item>15:00am</item>
+    </string-array>
+</resources>
