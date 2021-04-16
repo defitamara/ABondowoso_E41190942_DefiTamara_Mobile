@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Minggu 6 Intent</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="immplicit">Intent Implicit</string>
+    <string name="explicit">Intent Explicit</string>
+    <string name="oleh">Disusun oleh:</string>
+    <string name="nama">Defi Tamara - E41190942</string>
+    <string name="prodi">TIF A Bondowoso</string>
+
+    <string name="visit">Visit</string>
+    <string name="who_are_you">Who are you?</string>
+    <string name="i_am">I am</string>
+    <string name="send">SEND</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_second_activity">This is second activity</string>
+</resources>
