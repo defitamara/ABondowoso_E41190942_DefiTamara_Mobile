@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minggu 10 AksesSensor</string>
+    <string name="oleh">Disusun Oleh:</string>
+    <string name="nama">E41190942 - Defi Tamara</string>
+    <string name="prodi">TIF A Bondowoso</string>
+    <string name="label_brightness">Level : %1$.2f lux</string>
+    <string name="label_proximity">Objek : %1$.2f cm</string>
+</resources>
